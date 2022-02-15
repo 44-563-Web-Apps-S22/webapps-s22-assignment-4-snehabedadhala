@@ -53,3 +53,28 @@ td{
     color: transparent;
     
 }
+.navigation{
+    width: 100%;
+    overflow: auto;
+}
+
+.navigation a {
+    float:left;
+    padding: 15px;
+    color:black;
+    background-color: grey;
+    align-content: center;
+    left: 15%;
+    position: relative;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.navigation:hover {
+    background-color: rgb(218, 21, 21);
+}
+.item {
+    color: blue;
+    background-color: yellow;
+    align-items: center;
+} 
