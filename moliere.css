@@ -46,3 +46,10 @@ td{
     padding: 10px;
     background-color: rgb(247, 243, 238);
 }
+.name:hover {
+    border: 1px solid #ae92e2;
+    padding: 10px;
+    text-shadow:2px 2px 2px rgb(32, 161, 75);
+    color: transparent;
+    
+}
