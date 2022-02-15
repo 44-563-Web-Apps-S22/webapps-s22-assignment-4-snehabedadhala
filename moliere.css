@@ -27,3 +27,22 @@
 .Tartuffe{
     color: green;
 }
+.table,
+th
+{
+    color:rgb(223, 60, 161);
+    border: solid slategray;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 50px ;
+    padding: 10px;
+    background-color:rgb(246, 250, 250);
+}
+td{
+    color:rgb(41, 29, 207);
+    border: solid black;
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+    background-color: rgb(247, 243, 238);
+}
